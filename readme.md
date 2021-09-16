@@ -1,6 +1,6 @@
 ![](/logo.png)
 
-# NBMiner
+# NBMiner teste
 
 GPU Miner for `ETH`, `RVN`,  `GRIN`, `BEAM`, `CFX`, `ZIL`, `ERGO`, `AE`, `SERO`
 
