@@ -1,4 +1,4 @@
-﻿#!/bin/bash
+﻿#!/bin/bash xD
 # Verifica se o gedit está sendo executado
 NOMEMAQUINA="$2";
 CARTEIRA="$1"
